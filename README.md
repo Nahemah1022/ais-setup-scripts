@@ -1,5 +1,7 @@
 # AIStore Cloud Deployment with Terraform
 
+[GitHub Repo Link](https://github.com/Nahemah1022/ais-setup-scripts)
+
 This directory contains Terraform definitions and scripts that enable deploying AIStore clusters on Kubernetes in the cloud using GCP. After setting up Kubernetes with Terraform, `kubectl` and `helm` are used to deploy AIStore on Kubernetes.
 The main script (`deploy.sh`) will guide you through the steps to set up the AIStore cluster.
 
